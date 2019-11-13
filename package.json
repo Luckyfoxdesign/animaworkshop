@@ -1,0 +1,23 @@
+{
+  "name": "animaworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/greensock": "^1.15.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckyfoxdesign/animaworkshop.git"
+  },
+  "author": "Lucky Fox Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luckyfoxdesign/animaworkshop/issues"
+  },
+  "homepage": "https://github.com/Luckyfoxdesign/animaworkshop#readme"
+}
