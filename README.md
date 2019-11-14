@@ -29,6 +29,10 @@ In this part, we'll be developing animation.
 - Animation loop
 - Animation states: Play / Pause / Restart
 
+### Final part
+- Questions
+- Feedback
+
 ---
 
 ## Presentation
