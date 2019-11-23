@@ -4,8 +4,11 @@
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background-color: #FF6D87;
+	background-color: #ff6d87;
 	&_image {
+		display: flex;
+		flex-direction: row;
 		padding: 40px;
+		align-items: center;
 	}
 }
