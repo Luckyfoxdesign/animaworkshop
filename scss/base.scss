@@ -6,9 +6,35 @@
 	height: 100vh;
 	background-color: #ff6d87;
 	&_image {
+		position: relative;
+		width: 60vw;
 		display: flex;
-		flex-direction: row;
-		padding: 40px;
-		align-items: center;
+		justify-content: center;
 	}
+	&_svg {
+		z-index: 2;
+	}
+	&_dialog {
+		position: absolute;
+		padding: 12px;
+		background-color: #fff;
+		color: #f33b4a;
+		border-radius: 32px;
+		font-size: 24px;
+		font-weight: 700;
+	}
+}
+
+.cat {
+	top: 20%;
+	left: 50%;
+	opacity: 0;
+	z-index: 3;
+}
+
+.coin {
+	top: 38%;
+	left: 70%;
+	opacity: 0;
+	z-index: 3;
 }

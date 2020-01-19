@@ -33,13 +33,9 @@ In this part, we'll be developing animation.
 - Questions
 - Feedback
 
----
-
 ## Presentation
 Presentation available in `/presa/...` and have a `.fig` format (*Figma file*)
 Or you can follow [the link](https://greensock.com/3/) to view this presentation online and add it to your Figma drafts.
-
----
 
 ## Copyrights
 Original [image and animation](https://dribbble.com/shots/3425605-Loading) belong to [wangsi](https://dribbble.com/simaizi4568).

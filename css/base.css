@@ -12,14 +12,33 @@
   height: 100vh;
   background-color: #ff6d87; }
   .container_image {
+    position: relative;
+    width: 60vw;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    padding: 40px;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center; }
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center; }
+  .container_svg {
+    z-index: 2; }
+  .container_dialog {
+    position: absolute;
+    padding: 12px;
+    background-color: #fff;
+    color: #f33b4a;
+    border-radius: 32px;
+    font-size: 24px;
+    font-weight: 700; }
+
+.cat {
+  top: 20%;
+  left: 50%;
+  opacity: 0;
+  z-index: 3; }
+
+.coin {
+  top: 38%;
+  left: 70%;
+  opacity: 0;
+  z-index: 3; }
