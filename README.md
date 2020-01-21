@@ -33,7 +33,7 @@ In this part, we'll be developing animation.
 - Feedback
 
 ## Presentation
-You can view workshop presentation [by the link to figma file](https://www.figma.com/file/XqqphHlBg5J3BuBleIRsIN/Animation-Workshop?node-id=7%3A0).
+You can view workshop presentation [by the link to figma file](https://www.figma.com/proto/XqqphHlBg5J3BuBleIRsIN/Animation-Workshop?node-id=7%3A2&viewport=378%2C56%2C0.06280070543289185&scaling=min-zoom).
 
 ## Copyrights
 Original [image and animation](https://dribbble.com/shots/3425605-Loading) belong to [wangsi](https://dribbble.com/simaizi4568).
