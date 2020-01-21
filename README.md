@@ -12,8 +12,7 @@ In this part, I'll show a presentation in which I'll describe the main steps of 
 - Export to SVG
 - SVG code improvements
 - VSC environment settings
-- Several ways to create animations
-- What is GSAP?
+- Several ways to create animations with the GSAP
 - How GSAP working
 
 ### Main part
@@ -34,8 +33,7 @@ In this part, we'll be developing animation.
 - Feedback
 
 ## Presentation
-Presentation available in `/presa/...` and have a `.fig` format (*Figma file*)
-Or you can follow [the link](https://greensock.com/3/) to view this presentation online and add it to your Figma drafts.
+You can view workshop presentation [by the link to figma file](https://www.figma.com/file/XqqphHlBg5J3BuBleIRsIN/Animation-Workshop?node-id=7%3A0).
 
 ## Copyrights
 Original [image and animation](https://dribbble.com/shots/3425605-Loading) belong to [wangsi](https://dribbble.com/simaizi4568).

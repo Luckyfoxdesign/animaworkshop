@@ -62,7 +62,10 @@ function catAnimation() {
 		waveAnimDuration += 0.1
 		let nodeId = "#" + node.id
 		return gsap
-			.timeline(settings(undefined, 0.05 + waveAnimDuration / 10))
+			.timeline({
+				repeat: -1,
+				defaults: { ease: "none", duration: 0.05 + waveAnimDuration / 10 }
+			})
 			.to(nodeId, { x: -1.2 })
 			.yoyo(true)
 	})
